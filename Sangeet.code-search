@@ -24,13 +24,29 @@ bride-wedding.html:
   1036:     .event-sangeet .btn-map:hover { background: var(--sangeet); color: #fff; }
   1037  
 
-  2513          compliment_sunny: 'The Bride\'s Lifeline — <strong style="color: rgba(255,255,255,0.9);">Lipsa</strong> , <strong style="color: rgba(255,255,255,0.9);">Guduli</strong> & <strong style="color: rgba(255,255,255,0.9);">Kuni</strong>',
+  2513          compliment_sunny: 'The Groom\'s Lifeline — <strong style="color: rgba(255,255,255,0.9);">Amiya</strong> , <strong style="color: rgba(255,255,255,0.9);">Aditya</strong> , <strong style="color: rgba(255,255,255,0.9);">Jagan</strong> , <strong style="color: rgba(255,255,255,0.9);">Asutosh</strong> , <strong style="color: rgba(255,255,255,0.9);">Debasish</strong> , <strong style="color: rgba(255,255,255,0.9);">Gourav</strong> , <strong style="color: rgba(255,255,255,0.9);">Shaktiman</strong> , <strong style="color: rgba(255,255,255,0.9);">Supriya</strong> , <strong style="color: rgba(255,255,255,0.9);">Tushar</strong> & <strong style="color: rgba(255,255,255,0.9);">Omkar</strong>',
   2514:         date_sangeet: '24th November, 6 PM',
   2515:         evt_sangeet: 'Sangeet',
-  2516:         venue_sangeet: 'Bride\'s Residence',
+  2516:         venue_sangeet: 'Groom\'s Residence',
+  2517          date_mehendi: '24th November, 8 PM',
+
+  2582          compliment_sunny: 'दुल्हन की बहन — <strong style="color: rgba(255,255,255,0.9);">Amiya</strong> , <strong style="color: rgba(255,255,255,0.9);">Aditya</strong> , <strong style="color: rgba(255,255,255,0.9);">Jagan</strong> , <strong style="color: rgba(255,255,255,0.9);">Asutosh</strong> , <strong style="color: rgba(255,255,255,0.9);">Debasish</strong> , <strong style="color: rgba(255,255,255,0.9);">Gourav</strong> , <strong style="color: rgba(255,255,255,0.9);">Shaktiman</strong> , <strong style="color: rgba(255,255,255,0.9);">Supriya</strong> , <strong style="color: rgba(255,255,255,0.9);">Tushar</strong> & <strong style="color: rgba(255,255,255,0.9);">Omkar</strong>',
+  2514:         date_sangeet: '24th November, 6 PM',
+  2515:         evt_sangeet: 'Sangeet',
+  2516:         venue_sangeet: 'Groom\'s Residence',
+  2517          date_mehendi: '24th November, 8 PM',
+
+  2582          compliment_sunny: 'दुल्हन की बहन — <strong style="color: rgba(255,255,255,0.9);">Amiya</strong> , <strong style="color: rgba(255,255,255,0.9);">Aditya</strong> , <strong style="color: rgba(255,255,255,0.9);">Jagan</strong> , <strong style="color: rgba(255,255,255,0.9);">Asutosh</strong> , <strong style="color: rgba(255,255,255,0.9);">Debasish</strong> , <strong style="color: rgba(255,255,255,0.9);">Gourav</strong> , <strong style="color: rgba(255,255,255,0.9);">Shaktiman</strong> , <strong style="color: rgba(255,255,255,0.9);">Supriya</strong> , <strong style="color: rgba(255,255,255,0.9);">Tushar</strong> & <strong style="color: rgba(255,255,255,0.9);">Omkar</strong>',
+  2514:         date_sangeet: '24th November, 6 PM',
+  2515:         evt_sangeet: 'Sangeet',
+  2516:         venue_sangeet: 'Groom\'s Residence',
   2517          date_mehendi: '24th November, 8 PM',
 
   2582          compliment_sunny: 'दुल्हन की बहन — <strong style="color: rgba(255,255,255,0.9);">लिप्सा</strong> , <strong style="color: rgba(255,255,255,0.9);">गुडुली</strong> और <strong style="color: rgba(255,255,255,0.9);">कुनी</strong>',
+  2583:         date_sangeet: '24 नवंबर, शाम 6 बजे',
+  2584:         evt_sangeet: 'संगीत',
+  2583:         date_sangeet: '24 नवंबर, शाम 6 बजे',
+  2584:         evt_sangeet: 'संगीत',
   2583:         date_sangeet: '24 नवंबर, शाम 6 बजे',
   2584:         evt_sangeet: 'संगीत',
   2585:         venue_sangeet: 'ग्रैंड लुम्बिनी, भुवनेश्वर',
