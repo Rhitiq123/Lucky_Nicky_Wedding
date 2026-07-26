@@ -1514,7 +1514,6 @@
     <div class="preloader-lang" id="preloader-lang">
       <button class="preloader-lang-btn active" data-lang="en">English</button>
       <button class="preloader-lang-btn" data-lang="hi">हिन्दी</button>
-      <button class="preloader-lang-btn" data-lang="bn">বাংলা</button>
       <button class="preloader-lang-btn" data-lang="or">ଓଡ଼ିଆ</button>
     </div>
   </div>
@@ -1529,7 +1528,6 @@
   <div class="lang-switcher" id="lang-switcher">
     <div class="lang-options" id="lang-options">
       <button class="lang-btn" data-lang="or" title="ଓଡ଼ିଆ">ଓଡ଼ି</button>
-      <button class="lang-btn" data-lang="bn" title="বাংলা">বাং</button>
       <button class="lang-btn" data-lang="hi" title="हिन्दी">हिं</button>
       <button class="lang-btn active" data-lang="en" title="English">EN</button>
     </div>
@@ -1539,7 +1537,6 @@
   <!-- MUSIC TOGGLE -->
   <button class="music-toggle" id="music-btn" aria-label="Toggle background music">
     <div class="music-bars" id="music-bars">
-      <div class="bar" style="height:4px"></div>
       <div class="bar" style="height:4px"></div>
       <div class="bar" style="height:4px"></div>
       <div class="bar" style="height:4px"></div>
@@ -1658,11 +1655,11 @@
         <div class="event-card">
           <div class="event-date" data-i18n="date_sangeet">24th November, 6 PM</div>
           <h3 data-i18n="evt_sangeet">Sangeet</h3>
-          <p data-i18n="venue_sangeet">Bride's Residence</p>
+          <p data-i18n="venue_sangeet">Groom's Residence</p>
         </div>
         <div style="display:flex; gap:8px; flex-direction:row; align-items:center; flex-shrink:0;">
-          <a href="https://maps.app.goo.gl/5BABkd4QzUk2Sb7Z8" target="_blank" rel="noopener" class="btn-map" data-i18n="btn_location">Location →</a>
-          <a href="#" class="btn-map btn-cal" onclick="saveEventDate(event,'Sangeet — Rhitiq & Sunanda Wedding','2026-06-17T18:00:00','2026-06-17T23:59:00','Bride's Residence')" data-i18n="btn_save_date">Save Date</a>
+          <a href="https://maps.app.goo.gl/8j9aqNzQLy3ZeoMfA?g_st=iw" target="_blank" rel="noopener" class="btn-map" data-i18n="btn_location">Location →</a>
+          <a href="#" class="btn-map btn-cal" onclick="saveEventDate(event,'Sangeet — Rhitiq & Sunanda Wedding','2026-06-17T18:00:00','2026-06-17T23:59:00','Groom\'s Residence')" data-i18n="btn_save_date">Save Date</a>
         </div>
       </div>
 
@@ -1677,10 +1674,10 @@
         <div class="event-card">
           <div class="event-date" data-i18n="date_mehendi">24th November, 8 PM</div>
           <h3 data-i18n="evt_mehendi">Mehendi</h3>
-          <p data-i18n="venue_mehendi">Bride's Residence</p>
+          <p data-i18n="venue_mehendi">Groom\'s Residence</p>
         </div>
         <div style="display:flex; gap:8px; flex-direction:row; align-items:center; flex-shrink:0;">
-          <a href="https://maps.app.goo.gl/5BABkd4QzUk2Sb7Z8" target="_blank" rel="noopener" class="btn-map" data-i18n="btn_location">Location →</a>
+          <a href="https://maps.app.goo.gl/8j9aqNzQLy3ZeoMfA?g_st=iw" target="_blank" rel="noopener" class="btn-map" data-i18n="btn_location">Location →</a>
           <a href="#" class="btn-map btn-cal" onclick="saveEventDate(event,'Mehendi — Rhitiq & Sunanda Wedding','2026-06-18T10:00:00','2026-11-24T23:59:000','Chand %26 Co., Bhubaneswar')" data-i18n="btn_save_date">Save Date</a>
         </div>
       </div>
@@ -1694,13 +1691,13 @@
           <div class="node-dot"></div>
         </div>
         <div class="event-card">
-          <div class="event-date" data-i18n="date_haldi">25th November, 10 AM</div>
+          <div class="event-date" data-i18n="date_haldi">24th November, 10 AM</div>
           <h3 data-i18n="evt_haldi">Haldi</h3>
-          <p data-i18n="venue_haldi">Bride's Residence</p>
+          <p data-i18n="venue_haldi">Groom's Residence</p>
         </div>
         <div style="display:flex; gap:8px; flex-direction:row; align-items:center; flex-shrink:0;">
-          <a href="https://maps.app.goo.gl/5BABkd4QzUk2Sb7Z8" target="_blank" rel="noopener" class="btn-map" data-i18n="btn_location">Location →</a>
-          <a href="#" class="btn-map btn-cal" onclick="saveEventDate(event,'Haldi — Rhitiq & Sunanda Wedding','2026-11-25T10:00:00','2026-06-19T14:00:00','Chand %26 Co., Bhubaneswar')" data-i18n="btn_save_date">Save Date</a>
+          <a href="https://maps.app.goo.gl/8j9aqNzQLy3ZeoMfA?g_st=iw" target="_blank" rel="noopener" class="btn-map" data-i18n="btn_location">Location →</a>
+          <a href="#" class="btn-map btn-cal" onclick="saveEventDate(event,'Haldi — Rhitiq & Sunanda Wedding','2026-11-24T10:00:00','2026-06-19T14:00:00','Chand %26 Co., Bhubaneswar')" data-i18n="btn_save_date">Save Date</a>
         </div>
       </div>
 
@@ -2485,9 +2482,9 @@
     function saveAllDates(e) {
       e.preventDefault();
       const events = [
-        { title: 'Sangeet — Rhitiq & Sunanda Wedding', start: '2026-11-24T18:00:00', end: '2026-11-24T19:00:00', loc: 'Bride\'s Residence' },
-        { title: 'Mehendi — Rhitiq & Sunanda Wedding', start: '2026-11-24T19:00:00', end: '2026-11-24T23:59:00', loc: 'Bride\'s Residence' },
-        { title: 'Haldi — Rhitiq & Sunanda Wedding', start: '2026-11-25T10:00:00', end: '2026-11-25T14:00:00', loc: 'Bride\'s Residence' },
+        { title: 'Sangeet — Rhitiq & Sunanda Wedding', start: '2026-11-24T18:00:00', end: '2026-11-24T19:00:00', loc: 'Groom\'s Residence' },
+        { title: 'Mehendi — Rhitiq & Sunanda Wedding', start: '2026-11-24T19:00:00', end: '2026-11-24T23:59:00', loc: 'Groom\'s Residence' },
+        { title: 'Haldi — Rhitiq & Sunanda Wedding', start: '2026-11-24T10:00:00', end: '2026-11-24T14:00:00', loc: 'Groom\'s Residence' },
         { title: 'Wedding — Rhitiq & Sunanda', start: '2026-11-25T20:00:00', end: '2026-11-25T23:59:00', loc: 'The Bhubaneswar Grand, Bhubaneswar' },
         { title: 'Reception — Rhitiq & Sunanda Wedding', start: '2026-11-27T20:00:00', end: '2026-11-27T23:59:00', loc: 'SR Vivanta, Berhampur' }
       ];
@@ -2577,13 +2574,13 @@
         compliment_sunny: 'The Bride\'s Lifeline — <strong style="color: rgba(255,255,255,0.9);">Lipsa</strong> , <strong style="color: rgba(255,255,255,0.9);">Guduli</strong> & <strong style="color: rgba(255,255,255,0.9);">Kuni</strong>',
         date_sangeet: '24th November, 6 PM',
         evt_sangeet: 'Sangeet',
-        venue_sangeet: 'Bride\'s Residence',
+        venue_sangeet: 'Groom\'s Residence',
         date_mehendi: '24th November, 8 PM',
         evt_mehendi: 'Mehendi',
-        venue_mehendi: 'Bride\'s Residence',
-        date_haldi: '25th November, 10 AM',
+        venue_mehendi: 'Groom\'s Residence',
+        date_haldi: '24th November, 10 AM',
         evt_haldi: 'Haldi',
-        venue_haldi: 'Bride\'s Residence',
+        venue_haldi: 'Groom\'s Residence',
         date_wedding: '25th November, 7 PM',
         evt_wedding: 'The Wedding',
         venue_wedding: 'The Bhubaneswar Grand, Bhubaneswar',
@@ -2643,13 +2640,13 @@
         compliment_sunny: 'दुल्हन की बहन — <strong style="color: rgba(255,255,255,0.9);">लिप्सा</strong> , <strong style="color: rgba(255,255,255,0.9);">गुडुली</strong> और <strong style="color: rgba(255,255,255,0.9);">कुनी</strong>',
         date_sangeet: '24 नवंबर, शाम 6 बजे',
         evt_sangeet: 'संगीत',
-        venue_sangeet: 'ग्रैंड लुम्बिनी, भुवनेश्वर',
+        venue_sangeet: 'दूल्हे का घर',
         date_mehendi: '24 नवंबर, सुबह 8 बजे',
         evt_mehendi: 'मेहंदी',
-        venue_mehendi: 'वधू का निवास',
-        date_haldi: '25 नवंबर, सुबह 10 बजे',
+        venue_mehendi: 'दूल्हे का घर',
+        date_haldi: '24 नवंबर, सुबह 10 बजे',
         evt_haldi: 'हल्दी',
-        venue_haldi: 'वधू का निवास',
+        venue_haldi: 'दूल्हे का घर',
         date_wedding: '25 नवंबर, रात 7 बजे',
         evt_wedding: 'विवाह',
         venue_wedding: 'द भुवनेश्वर ग्रैंड',
@@ -2709,13 +2706,13 @@
         compliment_sunny: 'କନ୍ୟାର ଭଉଣୀ — <strong style="color: rgba(255,255,255,0.9);">ଲିପ୍ସା</strong> , <strong style="color: rgba(255,255,255,0.9);">ଗୁଡୁଲି</strong> ଓ <strong style="color: rgba(255,255,255,0.9);">କୁନି</strong>',
         date_sangeet: '୨୪ ନଭେମ୍ବର, ସନ୍ଧ୍ୟା ୬ଟା',
         evt_sangeet: 'ସଙ୍ଗୀତ',
-        venue_sangeet: 'କନ୍ୟାଙ୍କ ଘର',
+        venue_sangeet: 'ବରଙ୍କ ଘର',
         date_mehendi: '୨୪ ନଭେମ୍ବର, ସନ୍ଧ୍ୟା ୮ଟା',
         evt_mehendi: 'ମେହେନ୍ଦୀ',
-        venue_mehendi: 'କନ୍ୟାଙ୍କ ଘର',
-        date_haldi: '୨୫ ନଭେମ୍ବର, ସକାଳ ୧୦ଟା',
+        venue_mehendi: 'ବରଙ୍କ ଘର',
+        date_haldi: '୨୪ ନଭେମ୍ବର, ସକାଳ ୧୦ଟା',
         evt_haldi: 'ହଳଦୀ',
-        venue_haldi: 'କନ୍ୟାଙ୍କ ଘର',
+        venue_haldi: 'ବରଙ୍କ ଘର',
         date_wedding: '୨୫ ନଭେମ୍ବର, ରାତି ୭ଟା',
         evt_wedding: 'ବିବାହ',
         venue_wedding: 'ଦି ଭୁବନେଶ୍ୱର ଗ୍ରାଣ୍ଡ, ଭୁବନେଶ୍ୱର',
