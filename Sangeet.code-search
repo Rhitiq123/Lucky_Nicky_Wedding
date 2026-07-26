@@ -49,13 +49,13 @@ bride-wedding.html:
   2584:         evt_sangeet: 'संगीत',
   2583:         date_sangeet: '24 नवंबर, शाम 6 बजे',
   2584:         evt_sangeet: 'संगीत',
-  2585:         venue_sangeet: 'ग्रैंड लुम्बिनी, भुवनेश्वर',
+  2585:         venue_sangeet: 'दूल्हे का घर',
   2586          date_mehendi: '24 नवंबर, सुबह 8 बजे',
 
-  2651          compliment_sunny: 'ବରଙ୍କ ସାଙ୍ଗ— <strong style="color: rgba(255,255,255,0.9);">ଅମୀୟ</strong> , <strong style="color: rgba(255,255,255,0.9);">ଆଦିତ୍ୟ</strong> , <strong style="color: rgba(255,255,255,0.9);">ଜଗନ</strong> , <strong style="color: rgba(255,255,255,0.9);">ଆଶୁତୋଷ</strong> , <strong style="color: rgba(255,255,255,0.9);">ଦେବାଶିଷ</strong> , <strong style="color: rgba(255,255,255,0.9);">ଗୌରବ</strong> , <strong style="color: rgba(255,255,255,0.9);">ଶକ୍ତିମାନ</strong> , <strong style="color: rgba(255,255,255,0.9);">ସୁପ୍ରିୟ</strong> , <strong style="color: rgba(255,255,255,0.9);">ତୁଷାର</strong> & <strong style="color: rgba(255,255,255,0.9);">ଓଁକାର</strong>',
+  2651          compliment_sunny: 'ବରଙ୍କ ସାଙ୍ଗ— <strong style="color: rgba(255,255,255,0.9);">ଅମୀୟ</strong> , <strong style="color: rgba(255,255,255,0.9);">ଆଦିତ୍ୟ</strong> , <strong style="color: rgba(255,255,255,0.9);">ଜଗନ</strong> , <strong style="color: rgba(255,255,255,0.9);">ଆଶୁତୋଷ</strong> , <strong style="color: rgba(255,255,255,0.9);">ଦେବାଶିଷ</strong> , <strong style="color: rgba(255,255,255,0.9);">ଗୌରବ</strong> , <strong style="color: rgba(255,255,255,0.9);">ଶକ୍ତିମାନ</strong> , <strong style="color: rgba(255,255,255,0.9);">ସୁପ୍ରିୟ</strong> , <strong style="color: rgba(255,255,255,0.9);">ତୁଷାର</strong> & <strong style="color: rgba(255,255,255,0.9);">ଓମକାର</strong>',
   2652:         date_sangeet: '୨୪ ନଭେମ୍ବର, ସନ୍ଧ୍ୟା ୬ଟା',
   2653:         evt_sangeet: 'ସଙ୍ଗୀତ',
-  2654:         venue_sangeet: 'କନ୍ୟାଙ୍କ ଘର',
+  2654:         venue_sangeet: 'ବରଙ୍କ ଘର',
   2655          date_mehendi: '୨୪ ନଭେମ୍ବର, ସନ୍ଧ୍ୟା ୮ଟା',
 
 bride.html:
@@ -105,7 +105,7 @@ bride.html:
   2629          compliment_sunny: 'The Bride\'s Champions — <strong style="color: rgba(255,255,255,0.9);">Lipsa</strong> , <strong style="color: rgba(255,255,255,0.9);">Guduli</strong> & <strong style="color: rgba(255,255,255,0.9);">Kuni</strong>',
   2630:         date_sangeet: '24th November, 6 PM',
   2631:         evt_sangeet: 'Sangeet',
-  2632:         venue_sangeet: 'Bride\'s Residence',
+  2632:         venue_sangeet: 'Groom\'s Residence',
   2633          date_mehendi: '24th November, 8 PM',
 
   2654          wear_title: 'What to Wear',
@@ -115,13 +115,13 @@ bride.html:
   2698          compliment_sunny: 'दुल्हन की बहन — <strong style="color: rgba(255,255,255,0.9);">लिप्सा</strong> , <strong style="color: rgba(255,255,255,0.9);">गुडुली</strong> और <strong style="color: rgba(255,255,255,0.9);">कुनी</strong>',
   2699:         date_sangeet: '24 नवंबर, शाम 6 बजे',
   2700:         evt_sangeet: 'संगीत',
-  2701:         venue_sangeet: 'ग्रैंड लुम्बिनी, भुवनेश्वर',
+  2701:         venue_sangeet: 'ग्दूल्हे का घर',
   2702          date_mehendi: '24 नवंबर, सुबह 8 बजे',
 
   2767          compliment_sunny: 'କନ୍ୟାର ଭଉଣୀ — <strong style="color: rgba(255,255,255,0.9);">ଲିପ୍ସା</strong> , <strong style="color: rgba(255,255,255,0.9);">ଗୁଡୁଲି</strong> ଓ <strong style="color: rgba(255,255,255,0.9);">କୁନି</strong>',
   2768:         date_sangeet: '୨୪ ନଭେମ୍ବର, ସନ୍ଧ୍ୟା ୬ଟା',
   2769:         evt_sangeet: 'ସଙ୍ଗୀତ',
-  2770:         venue_sangeet: 'କନ୍ୟାଙ୍କ ଘର',
+  2770:         venue_sangeet: 'ବରଙ୍କ ଘର',
   2771          date_mehendi: '୨୪ ନଭେମ୍ବର, ସନ୍ଧ୍ୟା ୮ଟା',
 
 index.html:
@@ -171,7 +171,7 @@ index.html:
   2577          compliment_sunny: 'The Bride\'s Lifeline — <strong style="color: rgba(255,255,255,0.9);">Lipsa</strong> , <strong style="color: rgba(255,255,255,0.9);">Guduli</strong> & <strong style="color: rgba(255,255,255,0.9);">Kuni</strong>',
   2578:         date_sangeet: '24th November, 6 PM',
   2579:         evt_sangeet: 'Sangeet',
-  2580:         venue_sangeet: 'Bride\'s Residence',
+  2580:         venue_sangeet: 'Groom\'s Residence',
   2581          date_mehendi: '24th November, 8 PM',
 
   2602          wear_title: 'What to Wear',
@@ -181,11 +181,11 @@ index.html:
   2643          compliment_sunny: 'दुल्हन की बहन — <strong style="color: rgba(255,255,255,0.9);">लिप्सा</strong> , <strong style="color: rgba(255,255,255,0.9);">गुडुली</strong> और <strong style="color: rgba(255,255,255,0.9);">कुनी</strong>',
   2644:         date_sangeet: '24 नवंबर, शाम 6 बजे',
   2645:         evt_sangeet: 'संगीत',
-  2646:         venue_sangeet: 'ग्रैंड लुम्बिनी, भुवनेश्वर',
+  2646:         venue_sangeet: 'ग्दूल्हे का घर',
   2647          date_mehendi: '24 नवंबर, सुबह 8 बजे',
 
   2709          compliment_sunny: 'କନ୍ୟାର ଭଉଣୀ — <strong style="color: rgba(255,255,255,0.9);">ଲିପ୍ସା</strong> , <strong style="color: rgba(255,255,255,0.9);">ଗୁଡୁଲି</strong> ଓ <strong style="color: rgba(255,255,255,0.9);">କୁନି</strong>',
   2710:         date_sangeet: '୨୪ ନଭେମ୍ବର, ସନ୍ଧ୍ୟା ୬ଟା',
   2711:         evt_sangeet: 'ସଙ୍ଗୀତ',
-  2712:         venue_sangeet: 'କନ୍ୟାଙ୍କ ଘର',
+  2712:         venue_sangeet: 'ବରଙ୍କ ଘର',
   2713          date_mehendi: '୨୪ ନଭେମ୍ବର, ସନ୍ଧ୍ୟା ୮ଟା',
